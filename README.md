@@ -9,3 +9,5 @@ Yaddy yaddy yada.
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## Deployment
