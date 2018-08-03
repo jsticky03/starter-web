@@ -1,2 +1,4 @@
 generatedFile.txt
 log/
+*.orig
+*.bak
