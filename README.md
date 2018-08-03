@@ -13,3 +13,7 @@ Sample website with plenty of files for demos on how to use Git and GitHub.
 ## Deployment
 
 In the jungle the mighty jungle the lion sleeps tonight...
+
+### Copyright
+
+2018 Git Training
