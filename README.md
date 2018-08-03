@@ -16,4 +16,4 @@ In the jungle the mighty jungle the lion sleeps tonight...
 
 ### Copyright
 
-2018 Git Training
+2018 Git Training on Safari Online
